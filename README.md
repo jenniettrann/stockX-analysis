@@ -1,5 +1,5 @@
 # StockX Sneaker Market Analysis (2019)
-![Project Banner](reports/figures/banner.png)
+
 A data science analysis of the sneaker resale market using 2019 StockX transaction data. This project analyzes ROI, pricing patterns, and market efficiency across different brands and models.
 
 ### Technologies Used
